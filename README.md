@@ -46,7 +46,7 @@ Let's say you want to add two numbers:
 
 ## Credits
 
-Created by [Your Name].
+Created by Suraj.
 
 ## License
 
